@@ -34,15 +34,7 @@
 
 ---
 
-### Work experience
 
-| Period | Role | Company |
-|--------|------|---------|
-| 09/2023 – 04/2025 | Flutter & Android Developer | **Nexlab Technology** |
-| 03/2023 – 06/2023 | Android Developer Intern (Native) | **ACB Bank** |
-| 03/2021 – 03/2023 | Mobile Developer | **Freelancer** |
-
----
 
 ### Selected projects
 
